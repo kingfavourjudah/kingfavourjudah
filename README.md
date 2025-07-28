@@ -1,6 +1,6 @@
 
 
-# Personal Portfolio — Lucky Nweke
+# Good to Meet You! These are Some Interesting Things About Me
 
 Welcome to the source code and overview of my personal portfolio.
 
