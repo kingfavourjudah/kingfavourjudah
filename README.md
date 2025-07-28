@@ -2,7 +2,7 @@
 
 # Good to Meet You! These are Some Interesting Things About Me
 
-Welcome to the source code and overview of my personal portfolio.
+Welcome to the overview of my personal portfolio.
 
 This project showcases my work and experience as a **Blockchain Consultant** and **AI/ML Engineer**. It features select projects, skills, and the companies I’ve collaborated with in the AI, blockchain, and emerging tech ecosystem.
 
