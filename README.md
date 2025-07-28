@@ -29,6 +29,6 @@ This portfolio includes:
 Want to work together or collaborate on a project?
 
 Reach out:
-📧 [kingfavourjudah.com](mailto:kingfavourjuda@gmail.com)
+📧 [kingfavourjudah@gmail.com](mailto:kingfavourjuda@gmail.com)
 🔗 [LinkedIn](https://linkedin.com/in/kingfavourjudah)
 🧠 [Twitter / X](https://twitter.com/thefinancelion)
