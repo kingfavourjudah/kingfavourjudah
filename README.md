@@ -12,7 +12,7 @@ This project showcases my work and experience as a **Blockchain Consultant** and
 ## 🔗 Live Portfolio
 
 Visit the live site here:  
-👉 [https://your-portfolio-domain.com](https://your-portfolio-domain.com)
+👉 [https://my-tech-portfolio-three.vercel.app](https://my-tech-portfolio-three.vercel.app/)
 
 > *(Replace with your actual domain before publishing)*
 
@@ -62,19 +62,6 @@ Make sure you have **Node.js** and **Vite** (or Next.js, depending on your setup
 Want to work together or collaborate on a project?
 
 Reach out:
-📧 [your.email@example.com](mailto:your.email@example.com)
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
-🧠 [Twitter / X](https://twitter.com/yourhandle)
-
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
-
-
----
-
-Let me know if you’d like to auto-generate a version with your real links, email, or change the tech stack to match exactly what you used (e.g., Next.js vs Vite).
-```
+📧 [kingfavourjudah.com](mailto:kingfavourjuda@gmail.com)
+🔗 [LinkedIn](https://linkedin.com/in/kingfavourjudah)
+🧠 [Twitter / X](https://twitter.com/thefinancelion)
