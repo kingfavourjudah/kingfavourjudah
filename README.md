@@ -15,9 +15,7 @@ Visit the live site here:
 
 I’m a Blockchain Consultant and AI/ML Engineer focused on solving real-world problems with decentralized technologies and intelligent systems. I work at the intersection of Web3, machine learning, and product development — helping businesses design secure, scalable, and innovative tech solutions.
 
----
-
-## 📁 Project Overview
+## 🛠️ Tech Stack
 
 This portfolio includes:
 - A minimal, fast, and responsive design
@@ -25,32 +23,6 @@ This portfolio includes:
 - Companies I’ve worked with or contributed to
 - Technologies I specialize in: Solidity, TensorFlow, PyTorch, React, Next.js, Tailwind CSS, and more
 
----
-
-## 🚀 Getting Started (for developers)
-
-To run this locally:
-
-```bash
-git clone https://github.com/yourusername/your-portfolio-repo.git
-cd your-portfolio-repo
-npm install
-npm run dev
-````
-
-Make sure you have **Node.js** and **Vite** (or Next.js, depending on your setup) installed.
-
----
-
-## 🛠️ Tech Stack
-
-* **Framework**: React (with Vite or Next.js)
-* **Styling**: Tailwind CSS, shadcn/ui
-* **Routing**: File-based routing
-* **Animation**: Framer Motion (optional)
-* **Deployment**: Vercel / Netlify / GitHub Pages
-
----
 
 ## 📬 Contact
 
