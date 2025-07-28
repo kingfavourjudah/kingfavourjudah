@@ -14,8 +14,6 @@ This project showcases my work and experience as a **Blockchain Consultant** and
 Visit the live site here:  
 👉 [https://my-tech-portfolio-three.vercel.app](https://my-tech-portfolio-three.vercel.app/)
 
-> *(Replace with your actual domain before publishing)*
-
 ## 🧠 About Me
 
 I’m a Blockchain Consultant and AI/ML Engineer focused on solving real-world problems with decentralized technologies and intelligent systems. I work at the intersection of Web3, machine learning, and product development — helping businesses design secure, scalable, and innovative tech solutions.
