@@ -1,6 +1,3 @@
-Here’s a clean and professional `README.md` file you can upload to your GitHub profile or portfolio repository:
-
----
 
 
 # 🌐 Personal Portfolio — Lucky Nweke
