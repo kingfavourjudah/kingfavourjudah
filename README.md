@@ -21,7 +21,7 @@ This portfolio includes:
 - A minimal, fast, and responsive design
 - Sections for About, Projects, Services, Contact
 - Companies I’ve worked with or contributed to
-- Technologies I specialize in: Solidity, TensorFlow, PyTorch, React, Next.js, Tailwind CSS, and more
+- Technologies I specialize in: Rust, Solidity, React, Node.js, Next.js, Tailwind CSS, shadcn-ui, and more.
 
 
 ## Contact
